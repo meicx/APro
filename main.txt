@@ -4,6 +4,7 @@ function main(){
   xiaohuang();
 }
 function common(){
+//小红的公共模块
 }
 function xiaohong(){
 //小红个人提交
