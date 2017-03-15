@@ -4,11 +4,15 @@ function main(){
   xiaohuang();
 }
 function common(){
+
 //小黄的公共模块
+//小红的公共模块
+
 }
 function xiaohong(){
 //小红个人提交
 //小红个人提交2
+//小红的个人提交3
 }
 function xiaohuang(){
 //小黄的个人提交
