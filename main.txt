@@ -7,6 +7,7 @@ function common(){
 
 //小黄的公共模块
 //小红的公共模块
+//小黄修复了小bug
 
 }
 function xiaohong(){
