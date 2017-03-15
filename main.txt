@@ -8,6 +8,7 @@ function common(){
 function xiaohong(){
 //小红个人提交
 //小红个人提交2
+//小红的个人提交3
 }
 function xiaohuang(){
 //小黄的个人提交
