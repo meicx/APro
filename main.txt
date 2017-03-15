@@ -1,1 +1,11 @@
-this file just for test
+function main(){
+  common();
+  xiaohong();
+  xiaohuang();
+}
+function common(){
+}
+function xiaohong(){
+}
+function xiaohuang(){
+}
