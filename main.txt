@@ -6,6 +6,7 @@ function main(){
 function common(){
 }
 function xiaohong(){
+//我是小红已经完成任务
 }
 function xiaohuang(){
 }
