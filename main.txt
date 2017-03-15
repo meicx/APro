@@ -4,7 +4,12 @@ function main(){
   xiaohuang();
 }
 function common(){
+
+//小黄的公共模块
 //小红的公共模块
+//小黄修复了小bug
+//小红完成了新功能的开发
+
 }
 function xiaohong(){
 //小红个人提交
