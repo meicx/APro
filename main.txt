@@ -1,8 +1,9 @@
-function main(){
+﻿function main(){
   common();
   xiaohong();
   xiaohuang();
 }
+//test
 function common(){
 
 //小黄的公共模块
